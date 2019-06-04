@@ -10,7 +10,7 @@
 instagram: king___juno
 github: https://github.com/king-juno
 
-################################# virus_store v1.0 ###################################################################
+################################# virus_store v1.0 
 
 bash virus.sh
 
